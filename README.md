@@ -1,2 +1,2 @@
 # my-helm-sample
-Helm Sample
+Helm boilerplate app
